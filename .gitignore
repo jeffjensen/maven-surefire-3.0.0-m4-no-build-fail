@@ -1,0 +1,30 @@
+# Binary Files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Text Files
+*.log
+
+# Maven
+target/
+
+# IDE: Eclipse
+.settings/
+.sts4-cache/
+bin/
+.classpath
+.project
+.factorypath
+.springBeans
+.sonatype
+
+# IDE: IDEA
+.idea/
+out/
+*.iml
+
+# IDE: VSCode
+.vscode
